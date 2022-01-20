@@ -1,0 +1,1 @@
+select busid from busroute where duration=8 or duration=9;
